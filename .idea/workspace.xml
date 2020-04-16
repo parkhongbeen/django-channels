@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f56c5a5-c1b1-4254-82f8-cf4d1e370adc" name="Default Changelist" comment="" />
+    <list default="true" id="6f56c5a5-c1b1-4254-82f8-cf4d1e370adc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/chat/routing.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/chat/routing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/chat/templates/chat/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/chat/templates/chat/room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1acRb0OY5y2V0BCHPl21BhxWB1p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,7 +26,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="channels" type="PythonConfigurationType" factoryName="Python">
+      <module name="channels" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -44,10 +79,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587034430932">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1587034430932" />
     <state x="427" y="161" key="FileChooserDialogImpl" timestamp="1587033082196">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="427" y="161" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1587033082196" />
+    <state width="1259" height="167" key="GridCell.Tab.0.bottom" timestamp="1587037610761">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587037610761" />
+    <state width="1259" height="167" key="GridCell.Tab.0.center" timestamp="1587037610760">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1587037610760" />
+    <state width="1259" height="167" key="GridCell.Tab.0.left" timestamp="1587037610759">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1587037610759" />
+    <state width="1259" height="167" key="GridCell.Tab.0.right" timestamp="1587037610761">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1587037610760" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1587033092296">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
